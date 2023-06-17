@@ -38,6 +38,7 @@ main{
     justify-content: center;
     aling-items: center;
     overflow: hidden;
+    max-width: 300px;
 }
 
 img{
