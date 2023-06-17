@@ -1,7 +1,4 @@
 
-*{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
 header {
     display: flex;
     justify-content: space-between;
@@ -23,21 +20,16 @@ header {
     font-size: 16px;
     cursor: pointer;
   }
+  
   button:hover{
     color: darkgreen;
     background-color: limegreen;
   }
 
 main{
-    text-align: center;
+    text-align: left;
     text-decoration: none;
-
 }
-
-ul{
-    list-style: none;
-}
-
   #img-container{
     display: flex;
     justify-content: center;
@@ -45,9 +37,10 @@ ul{
 }
 
 img{
-    width: 30rem;
+    max-width: 30rem;
     border-radius: 10%;
 }
+
 body {
   font-family: Arial, sans-serif;
 }
