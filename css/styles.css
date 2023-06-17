@@ -40,6 +40,7 @@ main{
 img{
     max-width: 100px;
     border-radius: 10%;
+    justify-content: space-between;
 }
 
 body {
