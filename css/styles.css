@@ -5,6 +5,7 @@ header {
     align-items: center;
     padding: 20px;
     background-color: darkseagreen;
+    max-height: 30px;
   }
 
   h1 {
@@ -37,7 +38,7 @@ main{
 }
 
 img{
-    max-width: 30rem;
+    max-width: 100px;
     border-radius: 10%;
 }
 
