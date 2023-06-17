@@ -14,6 +14,10 @@ header {
   }
   #encabezado{
     margin-bottom: 10px;
+    }
+    #scam{
+      max-width: 30px;
+      }
 
   button {
     background-color: #4CAF50;
@@ -47,9 +51,6 @@ img{
     justify-content: space-between;
     display: flex;
     padding: 10px;
-}
-#scam{
-height: 30px;
 }
 
 body {
