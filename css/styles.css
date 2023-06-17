@@ -10,7 +10,7 @@ header {
 
   h1 {
     margin: 0;
-    font-size: 32px;
+    font-size: 23px;
   }
 
   button {
@@ -34,6 +34,7 @@ main{
   #img-container{
     display: flex;
     justify-content: center;
+    aling-items: center;
     overflow: hidden;
 }
 
