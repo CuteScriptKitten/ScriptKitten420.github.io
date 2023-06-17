@@ -1,7 +1,6 @@
 
 header {
     display: flex;
-    justify-content: space-between;
     align-items: center;
     padding: 7px;
     background-color: darkseagreen;
@@ -45,6 +44,7 @@ img{
     border-radius: 10%;
     justify-content: space-between;
     display: flex;
+    padding: 10px;
 }
 
 body {
